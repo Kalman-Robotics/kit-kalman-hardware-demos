@@ -1,0 +1,16 @@
+{
+  "name": "IMU6500",
+  "version": "1.0.0",
+  "description": "MPU6500 IMU sensor library for ESP32",
+  "keywords": ["mpu6500", "imu", "accelerometer", "gyroscope", "i2c"],
+  "authors": [
+    {
+      "name": "KAIA.AI",
+      "url": "https://kaia.ai"
+    }
+  ],
+  "license": "Apache-2.0",
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "headers": ["IMU6500.h"]
+}
